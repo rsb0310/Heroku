@@ -1,0 +1,194 @@
+
+
+Microsoft Windows [Version 10.0.17134.228]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\RSB>desktop
+'desktop' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\RSB>cd
+C:\Users\RSB
+
+C:\Users\RSB>desktop
+'desktop' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\RSB>cd desktop
+
+C:\Users\RSB\Desktop>npm
+
+Usage: npm <command>
+
+where <command> is one of:
+    access, adduser, bin, bugs, c, cache, completion, config,
+    ddp, dedupe, deprecate, dist-tag, docs, doctor, edit,
+    explore, get, help, help-search, i, init, install,
+    install-test, it, link, list, ln, login, logout, ls,
+    outdated, owner, pack, ping, prefix, profile, prune,
+    publish, rb, rebuild, repo, restart, root, run, run-script,
+    s, se, search, set, shrinkwrap, star, stars, start, stop, t,
+    team, test, token, tst, un, uninstall, unpublish, unstar,
+    up, update, v, version, view, whoami
+
+npm <command> -h     quick help on <command>
+npm -l           display full usage info
+npm help <term>  search for help on <term>
+npm help npm     involved overview
+
+Specify configs in the ini-formatted file:
+    C:\Users\RSB\.npmrc
+or on the command line via: npm <command> --key value
+Config info can be viewed via: npm help config
+
+npm@5.6.0 F:\NodeJS\node_modules\npm
+
+C:\Users\RSB\Desktop>n
+'n' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\RSB\Desktop>cd heroku
+
+C:\Users\RSB\Desktop\Heroku>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (heroku) npm install actions-on-google
+Sorry, name can only contain URL-friendly characters.
+package name: (heroku)
+version: (1.0.0)
+description:
+entry point: (index.js)
+test command:
+git repository: (https://github.com/rsb0310/Heroku.git)
+keywords:
+author:
+license: (ISC)
+About to write to C:\Users\RSB\Desktop\Heroku\package.json:
+
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsb0310/Heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsb0310/Heroku/issues"
+  },
+  "homepage": "https://github.com/rsb0310/Heroku#readme"
+}
+
+
+Is this ok? (yes)
+
+C:\Users\RSB\Desktop\Heroku>install actions=on-google
+'install' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\RSB\Desktop\Heroku>install actions=on-google
+'install' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\RSB\Desktop\Heroku>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (heroku) npm install actions-on-google
+Sorry, name can only contain URL-friendly characters.
+package name: (heroku)
+version: (1.0.0)
+description:
+keywords:
+author:
+license: (ISC)
+About to write to C:\Users\RSB\Desktop\Heroku\package.json:
+
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsb0310/Heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsb0310/Heroku/issues"
+  },
+  "homepage": "https://github.com/rsb0310/Heroku#readme",
+  "description": ""
+}
+
+
+Is this ok? (yes) no
+Aborted.
+
+
+
+C:\Users\RSB\Desktop\Heroku>npm install actions-on-google
+npm notice created a lockfile as package-lock.json. You should commit this file.
+npm WARN heroku@1.0.0 No description
+
++ actions-on-google@2.3.0
+added 39 packages in 15.252s
+
+C:\Users\RSB\Desktop\Heroku>npm install -parser
+npm WARN heroku@1.0.0 No description
+
+up to date in 0.321s
+
+C:\Users\RSB\Desktop\Heroku>npm install dialogflow
+npm WARN notice [SECURITY] protobufjs has the following vulnerability: 1 moderate. Go here for more details: https://nodesecurity.io/advisories?search=protobufjs&version=5.0.3 - Run `npm i npm@latest -g` to upgrade your npm version, and then `npm audit` to get more info.
+
+> grpc@1.14.1 install C:\Users\RSB\Desktop\Heroku\node_modules\grpc
+
+node-pre-gyp WARN Using needle for node-pre-gyp https download
+[grpc] Success: "C:\Users\RSB\Desktop\Heroku\node_modules\grpc\src\node\extension_binary\node-v57-win32-x64-unknown\grpc_node.node" is installed via remote
+
+> protobufjs@6.8.8 postinstall C:\Users\RSB\Desktop\Heroku\node_modules\protobufjs
+> node scripts/postinstall
+
+npm WARN heroku@1.0.0 No description
+
++ dialogflow@0.6.0
+added 290 packages in 94.218s
+
+C:\Users\RSB\Desktop\Heroku>npm install dialogflow-fulfillment
+npm WARN heroku@1.0.0 No description
+
++ dialogflow-fulfillment@0.5.0
+added 1 package in 8.991s
+
+C:\Users\RSB\Desktop\Heroku>npm install express
+npm WARN heroku@1.0.0 No description
+
++ express@4.16.3
+added 52 packages in 8.682s
+
+C:\Users\RSB\Desktop\Heroku>

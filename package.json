@@ -1,0 +1,25 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsb0310/Heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsb0310/Heroku/issues"
+  },
+  "homepage": "https://github.com/rsb0310/Heroku#readme",
+  "dependencies": {
+    "actions-on-google": "^2.3.0",
+    "dialogflow": "^0.6.0",
+    "dialogflow-fulfillment": "^0.5.0",
+    "express": "^4.16.3"
+  }
+}
